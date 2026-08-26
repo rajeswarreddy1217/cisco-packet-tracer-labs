@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Create a basic LAN using two PCs and a switch.
+Created a basic LAN using two PCs and a switch.
 
 ## 🖥️ Devices
 
